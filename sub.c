@@ -6,6 +6,7 @@ void main()
  int b=1;
  int c;
  c=a-b;
+ c=10;
  printf("c =%d",c);
  getch()
 }
